@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "lucky",
+      "email": "lucky@gmail.com",
+      "mobile": "6383685299",
+      "errorMsg": "",
+      "id": 1
+    },
+    {
+      "name": "Lakshman Kumar Sibbala",
+      "email": "lakshman@gmail.com",
+      "mobile": "9876543213",
+      "errorMsg": "Please fiil the input field",
+      "id": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+    "pizzas":[
+        {
+            "id":1, 
+            "name":"Cheeseburger", 
+            "price":"$18.3", 
+            "image":"https://s3-us-west-2.amazonaws.com/craftcms-pizzaranch/general-uploads/Menu-Images/_960x800_crop_center-center/Bronco.png"
+        },
+        {
+            "id":2, 
+            "name":"Don Bacon", 
+            "price":"$24.1", 
+            "image":"https://s3-us-west-2.amazonaws.com/craftcms-pizzaranch/general-uploads/Menu-Images/_960x800_crop_center-center/Bronco.png"
+        },
+        {
+            "id":3, 
+            "name":"Carne", 
+            "price":"$26.3", 
+            "image":"https://s3-us-west-2.amazonaws.com/craftcms-pizzaranch/general-uploads/Menu-Images/_960x800_crop_center-center/Bronco.png"
+        },
+        {
+            "id":4, 
+            "name":"Julienne", 
+            "price":"$12.5", 
+            "image":"https://s3-us-west-2.amazonaws.com/craftcms-pizzaranch/general-uploads/Menu-Images/_960x800_crop_center-center/Bronco.png"
+        },
+        {
+            "id":5, 
+            "name":"Cheese", 
+            "price":"$10", 
+            "image":"https://s3-us-west-2.amazonaws.com/craftcms-pizzaranch/general-uploads/Menu-Images/_960x800_crop_center-center/Bronco.png"
+        },
+        {
+            "id":6, 
+            "name":"Cipollo", 
+            "price":"$18.3", 
+            "image":"https://s3-us-west-2.amazonaws.com/craftcms-pizzaranch/general-uploads/Menu-Images/_960x800_crop_center-center/Bronco.png"
+        }
+
+    ]
+}

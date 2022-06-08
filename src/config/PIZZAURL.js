@@ -1,0 +1,1 @@
+export const PIZZAURL = "http://localhost:3011/pizzas/";
